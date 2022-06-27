@@ -1,0 +1,7 @@
+node_modules/
+videos/
+screenshots/
+package-lock.json
+reports/
+mochawesome-report
+cucumber-html-report.js
